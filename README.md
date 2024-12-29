@@ -1,2 +1,2 @@
 # sanwax.com
-SANWAX.COM Information site.
+山和 Information site.
